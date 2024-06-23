@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tushar Bansal</h1>
 <h3 align="center">A passionate software development engineer from India</h3>
 
-- 💬 Ask me about **node.js , AI and automation**
+- 💬 Ask me about **backend, AI and automation**
 
 - 📫 How to reach me **tusharb331@gmail.com**
 
