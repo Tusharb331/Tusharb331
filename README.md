@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **tusharb331@gmail.com**
 
-- 📄 Know about my experiences [Click here](https://drive.google.com/file/d/1WA6RFUn9jZhvtpTCjHFqdWxreLSXdVYJ/view?usp=drivesdk)
+- 📄 Know about my experiences [Click here](https://drive.google.com/file/d/1iaYIHW6l2b6Sxq56dtkneUh4zAsf-ezg/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
