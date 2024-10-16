@@ -106,7 +106,7 @@
 ## 📊 GitHub Stats
 <div align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tusharb331&theme=github_dark" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Tusharb331&show_icons=true&theme=radical" alt="Tushar's GitHub Stats" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=Tusharb331&show_icons=true&theme=radical" alt="Tushar's GitHub Stats" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tusharb331&theme=radical" alt="Tushar's GitHub Streak" /><br>
 <!--   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tusharb331&theme=github_dark" /> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tusharb331&layout=compact&theme=radical" alt="Top Languages" /> -->
