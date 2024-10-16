@@ -10,7 +10,7 @@
   <img align="right" alt="procoder" src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="300" />
 
   ### 🧑‍💻 Who I Am
-  I am a **Software Engineer** with a deep interest in **AI/ML**, **Full-Stack Development**, and building efficient solutions.
+  I am a **Software Engineer** from India with a deep interest in **AI/ML**, **Full-Stack Development**, and building efficient solutions.
   
   - 🎓 Currently pursuing a **BTech in CSE (AI & ML)**.
   - 💼 Worked as a **Software Developer Intern** at **Softevia LLP**.
