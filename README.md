@@ -17,10 +17,10 @@
   - 🏅 **Eager to contribute** to the coding community and open-source projects.
 
   📧 **Email:** [tusharb331@gmail.com](mailto:tusharb331@gmail.com)  
-  📄 **Resume:** [Download my resume](https://drive.google.com/file/d/1Hci3Fa6rf7YCc1tN9Y5dlhSKyeyIfOtx/view?usp=sharing)  <!-- Replace with the actual link to your resume -->
+  📄 **Resume:** [Download my resume](https://drive.google.com/file/d/1Hci3Fa6rf7YCc1tN9Y5dlhSKyeyIfOtx/view?usp=sharing)  
   
   ### 🤔 Ask Me About
-  - Implementing *machine learning* models and *NLP* pipelines.
+  - Implementing *machine learning* models and *NLP* solutions.
   - Optimizing *front-end* applications using *React* and *Tailwind CSS*.
   - Crafting robust *backend solutions* using *Node.js*, *Express.js*, and *MongoDB*.
   
