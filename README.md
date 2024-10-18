@@ -34,6 +34,9 @@
 
 ## 📫 Connect with Me
 <div align="center">
+  <a href="https://discord.com/users/tusharb331" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+</a>
   <a href="https://www.instagram.com/Tushar.b331" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
@@ -105,12 +108,32 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tusharb331&theme=github_dark" /> <br>
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=Tusharb331&show_icons=true&theme=radical" alt="Tushar's GitHub Stats" /> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tusharb331&theme=radical" alt="Tushar's GitHub Streak" /><br>
-<!--   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tusharb331&theme=github_dark" /> -->
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tusharb331&layout=compact&theme=radical" alt="Top Languages" /> -->
+  <!-- GitHub Streak -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Tusharb331&theme=radical" alt="Tushar's GitHub Streak" /><br>
+  
+  <!-- Top Languages -->
+  <a href="https://github.com/Tusharb331/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tusharb331&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
+  </a>
+  
+  <!-- Repos per Language -->
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tusharb331&theme=github_dark" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tusharb331&theme=github_dark" />
-<!--   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tusharb331&theme=github_dark" /> -->
+  
+  <!-- Profile Details moved to the end -->
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tusharb331&theme=github_dark" />
 </div>
+
+<!--
+## 🏆 Digital Badges
+<div align="center">
+  <a href="https://holopin.io/@tusharb331" target="_blank">
+    <img src="https://holopin.me/tusharb331" alt="An image of @tusharb331's Holopin badges, which is a link to view their full Holopin profile" />
+  </a>
+  <br/><br/>
+  
+  <img src="https://github.com/user-attachments/assets/8e8c2219-dd3e-4d17-8337-652059718d71" alt="Badge 1" width="200" />
+  <img src="https://github.com/user-attachments/assets/188ccd00-b532-4424-a6b9-2595cb10acf0" alt="Badge 2" width="200" />
+  <img src="https://github.com/user-attachments/assets/97498dce-3c4d-4bff-8d83-d9bc893e45a7" alt="Badge 3" width="200" />
+  <img src="https://github.com/user-attachments/assets/fc6af904-9dd6-4eb9-b2e6-ed5f5d250b4f" alt="Badge 4" width="200" />
+</div>
+-->
