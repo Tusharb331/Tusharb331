@@ -12,7 +12,7 @@
   ### 🧑‍💻 Who I Am
   I am a **Software Engineer** from India with a deep interest in **AI/ML**, **Full-Stack Development**, and building efficient solutions.
   
-  - 🎓 Currently pursuing a **BTech in CSE (AI & ML)**.
+  - 🎓 Pursuing a **BTech in CSE (AI & ML)**.
   - 💼 Worked as a **Software Developer Intern** at **Softevia LLP**.
   - 🏅 **Eager to contribute** to the coding community and open-source projects.
 
