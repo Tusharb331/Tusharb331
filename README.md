@@ -7,7 +7,7 @@
 ---
 
 <div>
-  <img align="right" alt="procoder" src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="300" />
+  <img align="right" alt="procoder" src="assets/coder-gif.gif" width="300" />
 
   ### 🧑‍💻 Who I Am
   I am a **Software Engineer** from India with a deep interest in **AI/ML**, **Full-Stack Development**, and building efficient solutions.
@@ -23,11 +23,12 @@
   - Implementing *machine learning* models and *NLP* solutions.
   - Optimizing *front-end* applications using *React* and *Tailwind CSS*.
   - Crafting robust *backend solutions* using *Node.js*, *Express.js*, and *MongoDB*.
-  
+ <!-- 
   ### 🌱 What I’m Currently Learning
   - Building responsive apps using *MERN Stack*.
   - *Advanced AI/ML algorithms* to elevate predictive accuracy.
   - Exploring *Real-time data processing* with *Socket.io* and *WebSockets*.
+  -->
 </div>
 
 ---
@@ -90,7 +91,8 @@
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tusharb331&theme=github_dark" />
 </div>
 
-<!--
+---
+
 ## 🏆 Digital Badges
 <div align="center">
   <a href="https://holopin.io/@tusharb331" target="_blank">
@@ -98,6 +100,7 @@
   </a>
   <br/><br/>
   
+<!--
   <img src="https://github.com/user-attachments/assets/8e8c2219-dd3e-4d17-8337-652059718d71" alt="Badge 1" width="200" />
   <img src="https://github.com/user-attachments/assets/188ccd00-b532-4424-a6b9-2595cb10acf0" alt="Badge 2" width="200" />
   <img src="https://github.com/user-attachments/assets/97498dce-3c4d-4bff-8d83-d9bc893e45a7" alt="Badge 3" width="200" />
