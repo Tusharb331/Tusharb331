@@ -1,8 +1,26 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 <img src="assets/banner.png" />
+<!-- Quote -->
+<a href="https://github.com/tusharb331"> 
+    <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px" /> 
+</a>
+<h3 align="center"> 
+    <a href="https://github.com/tusharb331"> 
+        <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
+    </a> 
+    <a href="https://github.com/tusharb331"> 
+        <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" /> 
+    </a>
+    "Talk is cheap. Show me the code." - Linus Torvalds  
+<!--     <img align="center" alt="GIF" width="30"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif" width="36"/>  -->
+</h3>
+
+<a href="https://github.com/tusharb331"> 
+    <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px" /> 
+</a>
 
 # Hi, I'm Tushar Bansal 👋
-### A Passionate Full-Stack Software Engineer | Final Year CSE Student | Tech Enthusiast
+### A Versatile Software Engineer | CSE Final Year | Tech Enthusiast
 
 ---
 
