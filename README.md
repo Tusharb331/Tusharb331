@@ -1,5 +1,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 <img src="assets/banner.png" />
+
 <!-- Quote -->
 <a href="https://github.com/tusharb331"> 
     <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px" /> 
@@ -12,14 +13,13 @@
         <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" /> 
     </a>
     "Talk is cheap. Show me the code." - Linus Torvalds  
-<!--     <img align="center" alt="GIF" width="30"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif" width="36"/>  -->
 </h3>
 
 <a href="https://github.com/tusharb331"> 
     <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px" /> 
 </a>
 
-# Hi, I'm Tushar Bansal 👋
+# Hi, I'm Tushar Bansal <a href= "https://github.com/tusharb331"> <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px"> </a> 
 ### A Versatile Software Engineer | CSE Final Year | Tech Enthusiast
 
 ---
@@ -142,18 +142,64 @@
 ## 📊 GitHub Stats
 <div align="center">
   <!-- GitHub Streak -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Tusharb331&theme=radical" alt="Tushar's GitHub Streak" /><br>
+  <!-- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Tusharb331&theme=radical" alt="Tushar's GitHub Streak" /><br> -->
   
   <!-- Top Languages -->
-  <a href="https://github.com/Tusharb331/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tusharb331&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
-  </a>
+  <!-- <a href="https://github.com/Tusharb331/github-readme-stats"> -->
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tusharb331&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" alt="Top Languages" /> -->
+  <!-- </a> -->
   
   <!-- Repos per Language -->
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tusharb331&theme=github_dark" />
+  <!-- <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tusharb331&theme=github_dark" /> -->
   
   <!-- Profile Details moved to the end -->
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tusharb331&theme=github_dark" />
+  <!-- <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tusharb331&theme=github_dark" /> -->
+<p align="center">
+<br/>
+<a href="https://github.com/tusharb331">
+    <img align="center" width ="%" src="https://img.shields.io/github/followers/tusharb331?logo=github&logoColor=41c350&labelColor=01102d&color=blue&style=for-the-badge">
+</a>
+
+<p align="center">
+    <a href="https://github.com/tusharb331">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=tusharb331&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia" alt="Tushar's github stats"/>
+    </a>
+    <br/>
+</p >
+
+<!--More Stats-->
+<details open align="center">
+    <summary>📈 More Stats</summary>
+    <br>
+ 
+<p align="center">
+    <a href="https://github.com/tusharb331"> 
+    <img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftusharb331%2Fhit-counter&count_bg=%236EB9F2&title_bg=%2301102D&icon=workplace.svg&icon_color=%2341C350&title=Profile+Views+(since+03/2024)&edge_flat=true" width="">    
+    </a>
+</p>
+
+<p align="center">
+    <div align="center">
+        <a href="https://github.com/tusharb331"> 
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tusharb331&theme=algolia" width="100%" /> 
+            </br></br>
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tusharb331&theme=algolia" width="31%" align="left"/>
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tusharb331&theme=algolia" width="31%" align="right" />
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tusharb331&theme=algolia" width="31%" align="center" title="🦉 Night owl" />  
+            </br></br>
+        </a>
+  </a> 
+  
+[![github streak](https://github-readme-streak-stats.herokuapp.com/?user=tusharb331&theme=algolia&card_width=1000)](https://github.com/tusharb331) </br></br>
+[![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=tusharb331&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/tusharb331) </br>
+</div>
+
+<!--SNAKE-->
+<p align="center">
+<a href="https://github.com/tusharb331">
+   <img alt="github-snake" src="output/github-contribution-grid-snake-dark.svg" title="🐍 Watch how the snake's eating my contributions" />
+</a>
+</p>
 </div>
 
 ---
@@ -172,3 +218,17 @@
   <img src="https://github.com/user-attachments/assets/fc6af904-9dd6-4eb9-b2e6-ed5f5d250b4f" alt="Badge 4" width="200" />
 </div>
 -->
+
+---
+
+<!--End-->
+<a href="https://github.com/tusharb331"> 
+  <img width="30" align ="left"  src="./assets/quote.webp" alt="quote.webp" />
+<a href="https://github.com/tusharb331"> 
+  <img width="30" align ="right"  src="./assets/quote.webp" alt="quote.webp" />
+
+<!--THANKS-->
+
+<p align="center">
+  <a href="https://github.com/NK-Works"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20For%20Visiting!;Take%20A%20Look%20at%20my%20Repositories%20⭐👇;Follow%20Your%20Dreams%20😉;&font=Pacifico&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=30"></a>
+</p>
