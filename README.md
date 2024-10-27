@@ -191,7 +191,7 @@
   </a> 
   
 [![github streak](https://github-readme-streak-stats.herokuapp.com/?user=tusharb331&theme=algolia&card_width=1000)](https://github.com/tusharb331) </br></br>
-[![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=tusharb331&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/tusharb331) </br>
+<!--[![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=tusharb331&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/tusharb331) </br> -->
 </div>
 
 <!--SNAKE-->
